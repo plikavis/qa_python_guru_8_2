@@ -1,0 +1,1 @@
+# qa_python_guru_8_2
